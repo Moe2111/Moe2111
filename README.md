@@ -14,7 +14,7 @@
 - Computer Science graduate, **University of Toronto**
 - I build **AI agents** and **retrieval-augmented generation (RAG)** apps with Python, TypeScript and Azure AI Foundry
 - Currently preparing for the **Microsoft AI-103** exam
-- Based in Sharjah, UAE · open to entry-level roles in **Canada** and the **UAE** (ready to relocate)
+- Based in the UAE and Canada · open to entry-level roles in **Canada** and the **UAE** (ready to relocate)
 - Languages: English, Arabic
 
 ---
