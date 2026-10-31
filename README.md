@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed 👋</h1> <h3 align="center">AI Engineer · Building RAG applications and tool-using AI agents</h3> <p align="center"> <a href="https://www.linkedin.com/in/mohamed-a-082b6719a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:hamoodabdulhakim21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/Open%20to%20work-Canada%20%7C%20UAE-2ea44f?style=for-the-badge" alt="Open to work"/> </p>
 About me
-🎓 Computer Science graduate, University of Toronto
-🤖 I build AI agents and retrieval-augmented generation (RAG) apps with Python, TypeScript and Azure AI Foundry
-📜 Currently preparing for the Microsoft AI-103 exam
-📍 Based in Sharjah, UAE · open to entry-level roles in Canada and the UAE (ready to relocate)
-🌐 English · Arabic
+ Computer Science graduate, University of Toronto I build AI agents and retrieval-augmented generation (RAG) apps with Python, TypeScript and Azure AI Foundry Currently preparing for the Microsoft AI-103 exam Based in Sharjah, UAE · open to entry-level roles in Canada and the UAE (ready to relocate) English · Arabic
 Featured projects
 Project	What it does	Stack
 rag-doc-qa	Full-stack RAG app: upload documents, ask questions, get answers grounded only in your files, with citations	Next.js · TypeScript · Anthropic API · Pinecone · AWS S3
